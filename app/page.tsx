@@ -63,7 +63,7 @@ export default function BeautyClinicLanding() {
           <div className="relative">
             <div className="relative rounded-3xl overflow-hidden shadow-2xl">
               <Image
-                src="/placeholder.svg?height=600&width=500"
+                src="/images/cliente-satisfeita.png"
                 alt="Cliente sorridente e confiante após tratamento estético"
                 width={500}
                 height={600}
